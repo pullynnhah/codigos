@@ -1,0 +1,28 @@
+.header {
+  height: 64px;
+  background-color: #333;
+  text-align: center;
+}
+
+.memes {
+  margin-bottom: 100px;
+}
+
+.meme {
+  width: 640px;
+  background-color: #FFF;
+  margin: 30px auto 0;
+  border: 1px solid #eaeaea;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+h2 {
+  font-size: 48px;
+  font-weight: bold;
+  color: #aa4653;
+  margin: 30px;
+}
+
+p {
+  margin: 0 30px 30px;
+}
